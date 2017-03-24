@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_o31_v4t_3z">
+    <title>How to commit your changes to GitHub</title>
+    <shortdesc>After you edit your topic files and save the changes to the local repository folder
+        (folder on your computer), you need to "commit" them to your repository on GitHub because it
+        doesn't do this automatically.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Get in the habit of committing often because this can act as a method to backing up
+                your work in the event your computer crashes.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>After you have saved all your files from Oxygen into the folder on your
+                    computer, open the GitHub desktop app.</cmd>
+            </step>
+            <step>
+                <cmd>Find your repository in the left sidebar.</cmd>
+            </step>
+            <step>
+                <cmd>Select "changes" to view all the changes you have made to the repository.</cmd>
+            </step>
+            <step>
+                <cmd>Add a comment that summarizes the changes. Something like "added a topic" or "updated content" will do.</cmd>
+            </step>
+            <step>
+                <cmd>Select "commit to master".</cmd>
+            </step>
+            <step>
+                <cmd>Click "Sync" in the upper right corner of the desktop app to synchronize the files from the computer to the GitHub website.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

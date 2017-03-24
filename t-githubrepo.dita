@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_otn_vht_3z">
+    <title>How to create a GitHub repository</title>
+    <shortdesc>The GitHub platform is a blend between a cloud storage for code and a social network.
+        Creating a repository on GitHub is like creating a folder in cloud storage and will allow
+        you to save the content you create to that GitHub repository. </shortdesc>
+    <taskbody>
+        <context>
+            <p>Other users will be able to see your repository and will be able to branch and edit
+                if they want to adapt from it. This is the social media aspect of GitHub where
+                developers can collaborate on ideas.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>After you create an account on GitHub and have downloaded the GitHub Desktop
+                    app, open the app and log in.</cmd>
+            </step>
+            <step>
+                <cmd>Select the plus sign icon in the upper left hand corner. </cmd>
+            </step>
+            <step>
+                <cmd>In the window that opens, select "Create".</cmd>
+            </step>
+            <step>
+                <cmd>Name the repository using all lowercase and without spaces or punctuation</cmd>
+            </step>
+            <step>
+                <cmd>Designate the folder path in your computer that makes sense to you.</cmd>
+            </step>
+            <step>
+                <cmd>Select "Create Repository" and you're good to go. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
